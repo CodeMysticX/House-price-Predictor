@@ -1,16 +1,16 @@
-# House Price Predictor
+# 🏡House Price Predictor
 
 Welcome to House Price Predictor – your ultimate tool for predicting house prices with machine learning!
 
 ---
 
-## Overview
+## 📜Overview
 
 House Price Predictor is a web application built with Flask and machine learning algorithms to predict house prices based on various factors such as location, size, amenities, and market trends. It utilizes state-of-the-art machine learning techniques to provide accurate predictions, empowering homeowners, buyers, and sellers in the real estate market.
 
 ---
 
-## Features
+## 🖋️Features
 
 - **Machine Learning Models**: Our platform employs advanced machine learning algorithms such as Linear Regression, Lasso Regression, and Z-score analysis to generate precise predictions.
 - **User-Friendly Interface**: With a sleek and intuitive interface, users can easily input property details and obtain instant price estimates.
@@ -19,7 +19,7 @@ House Price Predictor is a web application built with Flask and machine learning
 
 ---
 
-## How It Works
+## 💻How It Works
 
 1. **Input Property Details**: Users provide information about the property, including its location, size, amenities, and other relevant factors.
 2. **Model Prediction**: The input data is processed through our machine learning models, which analyze the features and generate a predicted price for the property.
@@ -27,14 +27,17 @@ House Price Predictor is a web application built with Flask and machine learning
 
 ---
 
-## Get Started
-
-To get started with House Price Predictor, follow these steps:
+## ✨Getting Started To get started with our Brain Tumor Detection System, simply follow these steps:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/CodeMysticX/house-price-predictor.git
-Contributing
+
+2. Install the necessary dependencies by running pip install -r requirements.txt.
+3. Launch the Flask web server by executing python app.py.
+4. Access the web application by navigating to http://localhost:5000 in your web browser.
+
+## 💻🧑‍🤝‍🧑Contributing
 We welcome contributions from the community! If you'd like to contribute to House Price Predictor, please follow these guidelines:
 
 Fork the repository and create a new branch for your feature or bug fix.
