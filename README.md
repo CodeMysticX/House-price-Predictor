@@ -35,7 +35,7 @@ To get started with House Price Predictor, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/house-price-predictor.git
+   git clone https://github.com/CodeMysticX/house-price-predictor.git
 Contributing
 We welcome contributions from the community! If you'd like to contribute to House Price Predictor, please follow these guidelines:
 
