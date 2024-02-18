@@ -34,7 +34,7 @@ House Price Predictor is a web application built with Flask and machine learning
    git clone https://github.com/CodeMysticX/house-price-predictor.git
 
 2. Install the necessary dependencies by running pip install -r requirements.txt.
-3. Launch the Flask web server by executing python app.py.
+3. Launch the Flask web server by executing python main.py.
 4. Access the web application by navigating to http://localhost:5000 in your web browser.
 
 ## 💻🧑‍🤝‍🧑Contributing
