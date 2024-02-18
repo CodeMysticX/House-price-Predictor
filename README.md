@@ -1,7 +1,5 @@
 # House Price Predictor
 
-![House Price Predictor](https://your-image-url.com)
-
 Welcome to House Price Predictor – your ultimate tool for predicting house prices with machine learning!
 
 ---
