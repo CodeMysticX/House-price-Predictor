@@ -1,0 +1,98 @@
+{% extends 'navbar.html' %}
+
+
+{% block content %}
+  <div class="container">
+    <h2>Property Details</h2>
+    <div class="left-column">
+
+      <form method="post" action = '/main'>
+        <div class="form-group">
+          <label for="area">Area:</label>
+            <input type="text" id="area" name="area" placeholder="Select Area">
+        </div>
+
+        <div class="form-group">
+          <label for="bhk">BHK:</label>
+          <select id="bhk" name="bhk">
+            <option value="" selected disabled>Select BHK</option>
+            {% for Area in bhk  %}
+            <option value={{Area}}>{{Area}}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="bathroom">Bathroom:</label>
+          <select id="bathroom" name="bathroom">
+            <option value="" selected disabled>Select Bathroom</option>
+            {% for Area in Bathroom  %}
+            <option value={{Area}}>{{Area}}</option>
+            {% endfor %}
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="bathroom">Furnishing:</label>
+          <select id="bathroom" name="Furnishing">
+            <option value="" selected disabled>Select Furnishing</option>
+            {% for Area in Furnishing  %}
+            <option value={{Area}}>{{Area}}</option>
+            {% endfor %}
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="bathroom">Locality:</label>
+          <select id="bathroom" name="Locality">
+            <option value="" selected disabled>Select Locality</option>
+            {% for Area in Locality  %}
+            <option value="{{Area|safe}}">{{Area|safe}}</option>
+            {% endfor %}
+          </select>
+        </div>
+    </div>
+    <div class="right-cloumn">
+      <div class="form-group">
+        <label for="bathroom">Parking:</label>
+        <select id="bathroom" name="Parking">
+          <option value="" selected disabled>Select Parking</option>
+          {% for Area in Parking  %}
+            <option value={{Area}}>{{Area}}</option>
+            {% endfor %}
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="bathroom">Status:</label>
+        <select id="bathroom" name="Status">
+          <option value="" selected disabled>Select Status</option>
+          {% for Area in Status  %}
+            <option value={{Area}}>{{Area}}</option>
+            {% endfor %}
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="bathroom">Transaction:</label>
+        <select id="bathroom" name="Transaction">
+          <option value="" selected disabled>Select Transaction</option>
+          {% for Area in Transaction  %}
+            <option value={{Area}}>{{Area}}</option>
+            {% endfor %}
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="bathroom">Type:</label>
+        <select id="bathroom" name="Type">
+          <option value="" selected disabled>Select Type</option>
+          {% for Area in Type  %}
+            <option value={{Area}}>{{Area}}</option>
+            {% endfor %}
+        </select>
+      </div>
+    </div>
+    <input type="submit" value="Submit">
+    </form>
+  </div>
+  {% endblock %}

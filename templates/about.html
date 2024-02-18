@@ -1,0 +1,71 @@
+{% extends 'navbar.html' %}
+
+{% block content %}
+    <style>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding-top: 80px;
+        }
+        
+        h1 {
+            color: #333;
+            font-size: 36px;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        p {
+            line-height: 1.6;
+            font-size: 18px;
+            color: #1e1e1e;
+            margin-bottom: 20px;
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #007bff;
+        }
+
+        .download-link {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+            font-size: 20px;
+            margin-top: 20px;
+        }
+
+        .download-link:hover {
+            background-color: #0056b3;
+        }
+    </style>
+
+    <div class="container">
+        <h1>About ML Project</h1>
+        <p>
+            Welcome to ML Project – your portal to the forefront of modern real estate analytics, where innovation meets opportunity! Here, we're not just predicting house prices; we're pioneering a new era of predictive analytics in the dynamic world of real estate.
+        </p>
+        <p>
+            At ML Project, we're driven by a passion for harnessing the latest advancements in <span class="highlight">machine learning</span> to decode the complexities of property valuation. Our mission is simple yet profound: to empower individuals and businesses with the foresight to navigate the ever-evolving landscape of real estate with confidence and precision.
+        </p>
+        <p>
+            What sets ML Project apart is our relentless pursuit of excellence in data-driven decision-making. Behind every prediction lies a meticulous process of data collection, feature engineering, and model optimization, orchestrated by a team of industry-leading experts dedicated to pushing the boundaries of what's possible.
+        </p>
+        <p>
+            But ML Project is more than just algorithms and data – it's a platform for innovation, collaboration, and discovery. We invite you to join us on this exhilarating journey as we explore the untapped potential of machine learning in shaping the future of real estate.
+        </p>
+        <p>
+            Whether you're a curious enthusiast or a seasoned professional, ML Project offers you a gateway to unparalleled insights and opportunities. Dive into our Git repository to unlock the secrets of our methodologies, or connect with our vibrant community to share ideas and experiences.
+        </p>
+        <p>
+            Are you ready to embark on a transformative voyage into the heart of real estate analytics? The future awaits at ML Project – where innovation knows no bounds, and the possibilities are endless. Let's redefine the future of real estate together.
+        </p>
+        <p style="text-align: center;">
+            <a class="download-link" href="https://github.com/CodeMysticX/House-Price-Prediction-">Download Source Code</a>
+        </p>
+    </div>
+{% endblock %}

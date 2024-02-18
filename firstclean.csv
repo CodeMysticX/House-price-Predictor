@@ -1,0 +1,304 @@
+,Area,BHK,Bathroom,Furnishing,Locality,Parking,Price,Status,Transaction,Type
+1,750.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5000000,Ready_to_move,New_Property,Apartment
+2,950.0,2,2.0,Furnished,other,1.0,15500000,Ready_to_move,Resale,Apartment
+5,1300.0,4,3.0,Semi-Furnished,other,1.0,15500000,Ready_to_move,New_Property,Builder_Floor
+9,1300.0,4,4.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,New_Property,Builder_Floor
+12,630.0,2,2.0,Semi-Furnished,other,1.0,5500000,Ready_to_move,New_Property,Builder_Floor
+13,660.0,2,2.0,Semi-Furnished,other,1.0,5000000,Ready_to_move,Resale,Builder_Floor
+18,1150.0,3,3.0,Semi-Furnished,other,1.0,25000000,Ready_to_move,Resale,Apartment
+19,650.0,2,2.0,Semi-Furnished,other,1.0,6000000,Ready_to_move,Resale,Builder_Floor
+21,900.0,3,2.0,Semi-Furnished,other,5.0,4500000,Ready_to_move,Resale,Builder_Floor
+24,914.9315,2,2.0,Semi-Furnished,other,1.0,12000000,Ready_to_move,Resale,Builder_Floor
+25,1100.0,3,3.0,Furnished,other,1.0,7000000,Ready_to_move,New_Property,Builder_Floor
+29,2160.0,4,4.0,Furnished,other,1.0,21000000,Ready_to_move,New_Property,Builder_Floor
+31,800.0,2,2.0,Unfurnished,other,1.0,15000000,Ready_to_move,New_Property,Builder_Floor
+33,1080.0,3,2.0,Semi-Furnished,other,1.0,22500000,Ready_to_move,New_Property,Builder_Floor
+35,1450.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,2.0,30000000,Ready_to_move,New_Property,Builder_Floor
+36,900.0,2,2.0,Semi-Furnished,other,1.0,13500000,Ready_to_move,New_Property,Apartment
+38,1350.0,3,4.0,Unfurnished,other,1.0,25000000,Ready_to_move,Resale,Apartment
+39,1710.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,4.0,26000000,Ready_to_move,New_Property,Builder_Floor
+40,1650.0,3,3.0,Semi-Furnished,other,1.0,30000000,Ready_to_move,Resale,Builder_Floor
+41,1280.0,2,2.0,Furnished,other,1.0,12500000,Ready_to_move,Resale,Builder_Floor
+42,1260.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,1.0,21000000,Ready_to_move,Resale,Builder_Floor
+46,1500.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,2.0,26000000,Ready_to_move,New_Property,Builder_Floor
+52,1600.0,3,3.0,Unfurnished,Lajpat Nagar 3,2.0,30000000,Ready_to_move,New_Property,Builder_Floor
+59,1100.0,3,3.0,Unfurnished,other,1.0,22500000,Ready_to_move,New_Property,Builder_Floor
+66,1200.0,3,3.0,Semi-Furnished,other,1.0,15500000,Ready_to_move,Resale,Apartment
+70,1400.0,3,3.0,Semi-Furnished,other,1.0,13500000,Ready_to_move,Resale,Apartment
+71,1900.0,4,4.0,Semi-Furnished,other,1.0,30000000,Ready_to_move,Resale,Apartment
+72,2160.0,4,3.0,Unfurnished,other,1.0,21000000,Ready_to_move,Resale,Apartment
+92,1450.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,2.0,30000000,Ready_to_move,New_Property,Builder_Floor
+93,1260.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,2.0,21000000,Ready_to_move,Resale,Builder_Floor
+95,1710.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,1.0,30000000,Ready_to_move,Resale,Builder_Floor
+96,1600.0,3,3.0,Unfurnished,Lajpat Nagar 3,1.0,30000000,Ready_to_move,New_Property,Builder_Floor
+98,2200.0,3,3.0,Unfurnished,Lajpat Nagar 3,1.0,30000000,Ready_to_move,Resale,Builder_Floor
+108,1000.0,2,2.0,Furnished,Lajpat Nagar 3,1.0,20000000,Ready_to_move,Resale,Apartment
+110,1000.0,2,2.0,Furnished,Lajpat Nagar 3,1.0,20000000,Ready_to_move,Resale,Apartment
+111,1700.0,3,3.0,Furnished,Lajpat Nagar 3,2.0,19000000,Ready_to_move,Resale,Builder_Floor
+112,1600.0,3,3.0,Unfurnished,Lajpat Nagar 3,2.0,26000000,Ready_to_move,Resale,Builder_Floor
+113,1350.0,3,3.0,Unfurnished,Lajpat Nagar 3,1.0,21000000,Ready_to_move,Resale,Builder_Floor
+117,1350.0,3,3.0,Semi-Furnished,Lajpat Nagar 3,1.0,21000000,Ready_to_move,Resale,Builder_Floor
+122,1710.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,4.0,26000000,Ready_to_move,New_Property,Builder_Floor
+123,1350.0,2,2.0,Furnished,Lajpat Nagar 2,4.0,12500000,Ready_to_move,Resale,Builder_Floor
+124,1500.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,2.0,26000000,Ready_to_move,New_Property,Builder_Floor
+134,900.0,2,2.0,Furnished,Lajpat Nagar 2,2.0,12500000,Ready_to_move,Resale,Builder_Floor
+136,1100.0,2,3.0,Semi-Furnished,Lajpat Nagar 2,1.0,22500000,Ready_to_move,New_Property,Builder_Floor
+137,810.0,2,2.0,Semi-Furnished,Lajpat Nagar 2,1.0,15500000,Ready_to_move,New_Property,Builder_Floor
+138,1500.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,1.0,26000000,Ready_to_move,New_Property,Builder_Floor
+140,825.0,2,2.0,Unfurnished,Lajpat Nagar 2,1.0,15000000,Ready_to_move,New_Property,Builder_Floor
+142,875.0,2,2.0,Unfurnished,Lajpat Nagar 2,1.0,15000000,Ready_to_move,New_Property,Builder_Floor
+143,1350.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,1.0,25000000,Ready_to_move,New_Property,Builder_Floor
+146,1350.0,3,3.0,Semi-Furnished,Lajpat Nagar 2,1.0,26000000,Ready_to_move,New_Property,Builder_Floor
+167,666.0,1,2.0,Furnished,other,1.0,3500000,Ready_to_move,Resale,Builder_Floor
+169,1360.0,4,3.0,Semi-Furnished,other,1.0,13500000,Ready_to_move,New_Property,Builder_Floor
+170,1550.0,4,3.0,Semi-Furnished,other,1.0,12500000,Ready_to_move,New_Property,Builder_Floor
+176,2300.0,4,4.0,Semi-Furnished,other,1.0,20000000,Ready_to_move,New_Property,Builder_Floor
+177,1300.0,4,4.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,New_Property,Builder_Floor
+181,750.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5000000,Ready_to_move,New_Property,Apartment
+183,800.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5500000,Ready_to_move,New_Property,Apartment
+191,1600.0,3,3.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,13500000,Ready_to_move,New_Property,Apartment
+193,1500.0,3,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,12000000,Ready_to_move,New_Property,Apartment
+195,2500.0,4,3.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,15000000,Ready_to_move,New_Property,Apartment
+210,750.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5000000,Ready_to_move,New_Property,Apartment
+227,1135.0,3,3.0,Furnished,other,2.0,25000000,Almost_ready,Resale,Apartment
+230,1200.0,3,3.0,Semi-Furnished,other,1.0,15500000,Ready_to_move,Resale,Apartment
+233,1100.0,2,2.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,Resale,Apartment
+236,1600.0,3,3.0,Semi-Furnished,other,1.0,30000000,Ready_to_move,New_Property,Builder_Floor
+276,1440.0,3,3.0,Semi-Furnished,other,3.0,26000000,Ready_to_move,New_Property,Builder_Floor
+278,900.0,2,2.0,Semi-Furnished,other,3.0,20000000,Ready_to_move,Resale,Builder_Floor
+283,1350.0,3,3.0,Unfurnished,other,1.0,26000000,Ready_to_move,New_Property,Builder_Floor
+284,1200.0,3,3.0,Unfurnished,other,1.0,25000000,Ready_to_move,New_Property,Builder_Floor
+287,1600.0,3,3.0,Unfurnished,other,1.0,22500000,Ready_to_move,Resale,Builder_Floor
+293,1000.0,2,2.0,Unfurnished,other,1.0,15000000,Ready_to_move,Resale,Builder_Floor
+295,1150.0,3,3.0,Semi-Furnished,other,2.0,26000000,Ready_to_move,New_Property,Builder_Floor
+302,900.0,2,2.0,Semi-Furnished,other,1.0,4500000,Ready_to_move,Resale,Builder_Floor
+303,970.0,3,2.0,Semi-Furnished,other,1.0,6500000,Ready_to_move,Resale,Builder_Floor
+307,1017.0,2,2.0,Furnished,other,1.0,6500000,Ready_to_move,New_Property,Builder_Floor
+309,950.0,3,2.0,Semi-Furnished,other,1.0,5500000,Ready_to_move,Resale,Apartment
+311,750.0,2,2.0,Unfurnished,other,1.0,4500000,Ready_to_move,Resale,Builder_Floor
+322,900.0,3,2.0,Semi-Furnished,other,1.0,6000000,Almost_ready,New_Property,Builder_Floor
+324,850.0,2,2.0,Furnished,other,1.0,4500000,Ready_to_move,Resale,Builder_Floor
+328,1053.0,3,2.0,Furnished,other,4.0,7000000,Ready_to_move,Resale,Builder_Floor
+332,747.0,2,2.0,Furnished,other,1.0,6500000,Ready_to_move,Resale,Builder_Floor
+334,376.7365,1,1.0,Semi-Furnished,other,1.0,3000000,Ready_to_move,New_Property,Apartment
+335,1125.0,2,2.0,Unfurnished,other,1.0,5000000,Ready_to_move,Resale,Builder_Floor
+336,713.0,2,2.0,Semi-Furnished,other,1.0,6000000,Ready_to_move,New_Property,Builder_Floor
+338,900.0,2,2.0,Semi-Furnished,other,1.0,6500000,Ready_to_move,Resale,Apartment
+343,2430.0,4,3.0,Furnished,other,1.0,25000000,Ready_to_move,Resale,Builder_Floor
+358,850.0,2,2.0,Furnished,other,1.0,4500000,Ready_to_move,Resale,Builder_Floor
+361,1000.0,3,2.0,Unfurnished,Laxmi Nagar,1.0,6500000,Ready_to_move,Resale,Apartment
+366,900.0,3,2.0,Semi-Furnished,Laxmi Nagar,1.0,7000000,Ready_to_move,Resale,Builder_Floor
+380,1000.0,3,3.0,Furnished,other,1.0,12500000,Ready_to_move,Resale,Builder_Floor
+382,600.0,2,2.0,Unfurnished,Laxmi Nagar,1.0,7000000,Ready_to_move,Resale,Builder_Floor
+387,900.0,3,2.0,Semi-Furnished,Laxmi Nagar,1.0,6000000,Ready_to_move,Resale,Builder_Floor
+388,1000.0,3,2.0,Unfurnished,Laxmi Nagar,1.0,6000000,Ready_to_move,Resale,Apartment
+427,2000.0,4,4.0,Semi-Furnished,other,3.0,15000000,Ready_to_move,Resale,Builder_Floor
+441,900.0,3,2.0,Unfurnished,other,1.0,12000000,Ready_to_move,Resale,Builder_Floor
+444,1782.0,3,3.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,Resale,Apartment
+447,1500.0,3,3.0,Unfurnished,other,1.0,12500000,Ready_to_move,Resale,Builder_Floor
+450,1200.0,3,2.0,Semi-Furnished,other,1.0,20000000,Ready_to_move,Resale,Apartment
+451,1100.0,2,2.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,Resale,Apartment
+452,1400.0,3,2.0,Semi-Furnished,other,2.0,25000000,Ready_to_move,New_Property,Apartment
+459,1100.0,2,2.0,Unfurnished,other,1.0,15500000,Ready_to_move,Resale,Apartment
+460,1075.0,2,2.0,Semi-Furnished,other,2.0,12000000,Ready_to_move,New_Property,Apartment
+462,1200.0,3,2.0,Semi-Furnished,other,2.0,25000000,Ready_to_move,Resale,Apartment
+463,600.0,1,2.0,Unfurnished,other,2.0,7000000,Ready_to_move,New_Property,Apartment
+465,1600.0,3,2.0,Semi-Furnished,other,1.0,25000000,Ready_to_move,Resale,Apartment
+473,1000.0,2,2.0,Furnished,other,1.0,5000000,Ready_to_move,Resale,Builder_Floor
+477,3500.0,4,4.0,Semi-Furnished,other,5.0,22500000,Ready_to_move,New_Property,Builder_Floor
+478,900.0,3,3.0,Furnished,other,2.0,20000000,Ready_to_move,Resale,Builder_Floor
+480,750.0,2,2.0,Semi-Furnished,"J R Designers Floors, Rohini Sector 24",1.0,5000000,Ready_to_move,New_Property,Apartment
+497,1135.0,3,3.0,Furnished,other,2.0,25000000,Almost_ready,Resale,Apartment
+500,1200.0,3,3.0,Semi-Furnished,other,1.0,15500000,Ready_to_move,Resale,Apartment
+503,1100.0,2,2.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,Resale,Apartment
+506,1600.0,3,3.0,Semi-Furnished,other,1.0,30000000,Ready_to_move,New_Property,Builder_Floor
+511,1350.0,3,3.0,Semi-Furnished,other,1.935562805872757,25000000,Ready_to_move,Resale,Builder_Floor
+538,1000.0,2,2.0,Unfurnished,Laxmi Nagar,1.0,5000000,Ready_to_move,New_Property,Apartment
+540,1350.0,3,2.0,Unfurnished,other,1.0,19000000,Ready_to_move,Resale,Builder_Floor
+551,1800.0,4,4.0,Semi-Furnished,other,1.0,12500000,Ready_to_move,Resale,Builder_Floor
+554,1300.0,3,3.0,Semi-Furnished,other,3.0,22500000,Ready_to_move,Resale,Builder_Floor
+556,2100.0,3,4.0,Semi-Furnished,other,2.0,25000000,Ready_to_move,Resale,Builder_Floor
+561,1700.0,3,3.0,Semi-Furnished,other,2.0,30000000,Ready_to_move,Resale,Builder_Floor
+565,2000.0,4,3.0,Semi-Furnished,other,1.0,25000000,Ready_to_move,Resale,Apartment
+566,1500.0,3,3.0,Semi-Furnished,other,2.0,30000000,Ready_to_move,Resale,Builder_Floor
+576,1100.0,3,3.0,Unfurnished,other,1.0,25000000,Ready_to_move,Resale,Builder_Floor
+578,700.0,2,2.0,Unfurnished,other,1.0,15000000,Ready_to_move,Resale,Builder_Floor
+580,540.0,1,1.0,Unfurnished,other,1.0,3000000,Ready_to_move,Resale,Builder_Floor
+583,1600.0,3,3.0,Semi-Furnished,other,2.0,22500000,Ready_to_move,Resale,Builder_Floor
+586,900.0,3,3.0,Semi-Furnished,other,1.0,12500000,Ready_to_move,New_Property,Builder_Floor
+599,1620.0,3,3.0,Semi-Furnished,other,1.935562805872757,26000000,Ready_to_move,New_Property,Builder_Floor
+600,1078.0,3,2.0,Unfurnished,other,1.0,15500000,Ready_to_move,New_Property,Builder_Floor
+602,1150.0,3,3.0,Semi-Furnished,other,1.0,21000000,Ready_to_move,Resale,Builder_Floor
+607,405.0,1,1.0,Semi-Furnished,other,1.0,4500000,Ready_to_move,Resale,Apartment
+613,2152.78,3,3.0,Furnished,other,2.0,30000000,Ready_to_move,New_Property,Builder_Floor
+617,900.0,2,2.0,Unfurnished,other,1.0,12500000,Ready_to_move,Resale,Builder_Floor
+621,1350.0,3,3.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,Resale,Builder_Floor
+623,1580.0,3,2.0,Furnished,other,1.0,21000000,Ready_to_move,Resale,Apartment
+630,1650.0,3,3.0,Semi-Furnished,other,1.0,15500000,Ready_to_move,Resale,Apartment
+632,1900.0,3,3.0,Furnished,other,1.0,25000000,Ready_to_move,Resale,Apartment
+633,1400.0,3,2.0,Furnished,other,1.0,15000000,Ready_to_move,Resale,Apartment
+640,1800.0,3,2.0,Semi-Furnished,other,1.0,15500000,Ready_to_move,Resale,Apartment
+645,1850.0,3,2.0,Semi-Furnished,other,1.0,15500000,Ready_to_move,Resale,Apartment
+648,1380.0,3,2.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,Resale,Apartment
+691,1350.0,3,3.0,Semi-Furnished,other,2.0,21000000,Ready_to_move,Resale,Apartment
+692,1800.0,3,3.0,Semi-Furnished,other,2.0,22500000,Ready_to_move,Resale,Apartment
+693,968.751,2,2.0,Semi-Furnished,other,2.0,15000000,Ready_to_move,Resale,Apartment
+694,1250.0,3,3.0,Semi-Furnished,other,2.0,20000000,Ready_to_move,New_Property,Apartment
+695,1800.0,3,3.0,Furnished,other,2.0,20000000,Ready_to_move,New_Property,Apartment
+696,1400.0,3,2.0,Semi-Furnished,other,2.0,26000000,Ready_to_move,Resale,Builder_Floor
+700,1600.0,3,3.0,Semi-Furnished,other,2.0,20000000,Ready_to_move,Resale,Apartment
+702,1400.0,3,2.0,Unfurnished,other,1.0,19000000,Ready_to_move,Resale,Apartment
+704,1100.0,2,2.0,Unfurnished,other,2.0,15000000,Ready_to_move,Resale,Apartment
+707,1500.0,3,3.0,Semi-Furnished,other,2.0,21000000,Ready_to_move,Resale,Apartment
+709,1300.0,3,3.0,Unfurnished,other,2.0,19000000,Ready_to_move,Resale,Apartment
+711,1440.0,3,3.0,Unfurnished,other,1.0,19000000,Ready_to_move,Resale,Apartment
+713,450.0,1,1.0,Semi-Furnished,other,1.0,3000000,Ready_to_move,Resale,Builder_Floor
+714,1300.0,2,2.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,Resale,Apartment
+717,1400.0,3,3.0,Furnished,other,1.0,19000000,Ready_to_move,Resale,Apartment
+718,1400.0,3,3.0,Semi-Furnished,other,1.0,19000000,Ready_to_move,Resale,Apartment
+719,1500.0,3,2.0,Semi-Furnished,other,1.0,13500000,Ready_to_move,Resale,Builder_Floor
+722,1600.0,4,2.0,Semi-Furnished,other,1.0,15500000,Ready_to_move,Resale,Apartment
+725,1200.0,3,3.0,Furnished,other,2.0,13500000,Ready_to_move,Resale,Apartment
+734,1200.0,3,2.0,Furnished,other,2.0,13500000,Ready_to_move,Resale,Apartment
+742,1150.0,2,2.0,Furnished,other,2.0,12500000,Ready_to_move,Resale,Apartment
+744,1800.0,4,4.0,Furnished,other,2.0,12000000,Ready_to_move,New_Property,Apartment
+745,1300.0,3,3.0,Furnished,other,1.0,20000000,Ready_to_move,New_Property,Apartment
+746,1150.0,2,2.0,Unfurnished,other,1.0,13500000,Ready_to_move,Resale,Apartment
+751,1000.0,3,3.0,Semi-Furnished,other,1.0,5500000,Ready_to_move,New_Property,Apartment
+762,800.0,2,2.0,Semi-Furnished,other,1.0,5000000,Almost_ready,Resale,Builder_Floor
+763,700.0,2,2.0,Semi-Furnished,other,1.0,3500000,Ready_to_move,Resale,Builder_Floor
+764,750.0,2,2.0,Semi-Furnished,other,1.0,4500000,Almost_ready,Resale,Builder_Floor
+771,1100.0,3,2.0,Semi-Furnished,other,1.0,6000000,Ready_to_move,Resale,Builder_Floor
+772,1000.0,3,3.0,Semi-Furnished,other,1.0,5500000,Ready_to_move,New_Property,Apartment
+773,1000.0,3,2.0,Semi-Furnished,other,1.0,7000000,Ready_to_move,New_Property,Builder_Floor
+774,1100.0,3,2.0,Furnished,other,1.0,6000000,Ready_to_move,Resale,Apartment
+777,600.0,2,2.0,Unfurnished,other,1.0,4500000,Ready_to_move,Resale,Apartment
+780,3600.0,2,2.0,Semi-Furnished,other,1.0,4500000,Ready_to_move,New_Property,Builder_Floor
+781,1305.0,4,3.0,Unfurnished,other,1.0,5500000,Almost_ready,New_Property,Builder_Floor
+785,1800.0,4,4.0,Semi-Furnished,other,1.0,12500000,Ready_to_move,Resale,Builder_Floor
+786,800.0,2,2.0,Semi-Furnished,other,1.0,3000000,Ready_to_move,New_Property,Builder_Floor
+788,1175.0,3,3.0,Unfurnished,other,4.0,5000000,Almost_ready,New_Property,Builder_Floor
+789,1500.0,3,3.0,Unfurnished,other,4.0,6000000,Ready_to_move,Resale,Builder_Floor
+790,810.0,2,2.0,Unfurnished,other,4.0,4500000,Ready_to_move,Resale,Apartment
+794,725.0,2,2.0,Furnished,other,1.0,3000000,Ready_to_move,Resale,Apartment
+796,750.0,2,2.0,Unfurnished,other,1.0,3500000,Ready_to_move,New_Property,Builder_Floor
+797,700.0,2,2.0,Semi-Furnished,other,1.0,3000000,Ready_to_move,New_Property,Builder_Floor
+800,900.0,2,2.0,Semi-Furnished,other,1.0,3500000,Ready_to_move,New_Property,Builder_Floor
+801,1500.0,3,3.0,Semi-Furnished,other,1.0,7000000,Ready_to_move,New_Property,Builder_Floor
+803,1035.0,3,3.0,Semi-Furnished,other,1.0,4500000,Ready_to_move,New_Property,Builder_Floor
+808,1750.0,3,3.0,Semi-Furnished,other,1.0,6500000,Ready_to_move,New_Property,Builder_Floor
+818,1300.0,3,3.0,Semi-Furnished,other,2.0,7000000,Ready_to_move,New_Property,Builder_Floor
+820,1675.0,4,3.0,Furnished,other,2.0,13500000,Ready_to_move,Resale,Builder_Floor
+822,1080.0,3,3.0,Unfurnished,other,5.0,6000000,Ready_to_move,New_Property,Apartment
+824,1250.0,3,2.0,Semi-Furnished,other,1.0,6500000,Ready_to_move,Resale,Apartment
+829,1044.0983,3,2.0,Unfurnished,other,1.0,6000000,Ready_to_move,Resale,Builder_Floor
+842,1100.0,3,2.0,Unfurnished,other,1.0,6500000,Ready_to_move,New_Property,Apartment
+844,1000.0,2,2.0,Semi-Furnished,other,1.0,6500000,Ready_to_move,Resale,Builder_Floor
+847,600.0,2,2.0,Semi-Furnished,other,1.0,3000000,Ready_to_move,New_Property,Apartment
+848,950.0,3,2.0,Furnished,other,1.0,6000000,Ready_to_move,New_Property,Builder_Floor
+853,950.0,3,2.0,Unfurnished,other,1.0,5000000,Ready_to_move,Resale,Builder_Floor
+856,600.0,2,1.0,Semi-Furnished,other,1.0,3000000,Ready_to_move,Resale,Apartment
+859,945.0,3,2.0,Semi-Furnished,other,1.0,5500000,Ready_to_move,Resale,Apartment
+887,437.0,1,1.0,Furnished,other,1.0,3500000,Ready_to_move,New_Property,Apartment
+897,990.0,3,2.0,Furnished,other,1.0,5000000,Ready_to_move,Resale,Builder_Floor
+909,800.0,2,2.0,Semi-Furnished,other,1.0,12000000,Ready_to_move,New_Property,Builder_Floor
+915,900.0,2,3.0,Semi-Furnished,other,2.0,12500000,Ready_to_move,Resale,Builder_Floor
+924,1290.0,3,2.0,Semi-Furnished,other,2.0,20000000,Ready_to_move,Resale,Builder_Floor
+926,1350.0,3,3.0,Semi-Furnished,other,2.0,30000000,Ready_to_move,New_Property,Builder_Floor
+927,1400.0,3,3.0,Semi-Furnished,other,1.0,30000000,Ready_to_move,New_Property,Builder_Floor
+928,1700.0,3,3.0,Unfurnished,other,2.0,30000000,Ready_to_move,New_Property,Builder_Floor
+931,1500.0,4,1.0,Unfurnished,other,1.935562805872757,12500000,Ready_to_move,Resale,Apartment
+932,400.0,1,1.0,Semi-Furnished,other,1.0,3500000,Ready_to_move,Resale,Apartment
+933,650.0,2,2.0,Unfurnished,other,1.0,6500000,Ready_to_move,Resale,Builder_Floor
+936,900.0,3,2.0,Semi-Furnished,other,2.0,13500000,Ready_to_move,Resale,Apartment
+942,750.0,2,1.0,Semi-Furnished,other,2.0,6500000,Ready_to_move,New_Property,Apartment
+945,1800.0,3,3.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,New_Property,Builder_Floor
+946,1080.0,3,1.0,Unfurnished,other,1.0,7000000,Ready_to_move,New_Property,Apartment
+951,350.0,1,1.0,Unfurnished,other,1.0,3000000,Ready_to_move,Resale,Apartment
+954,1450.0,2,2.0,Unfurnished,other,1.0,7000000,Ready_to_move,Resale,Apartment
+955,800.0,2,2.0,Unfurnished,other,1.0,6000000,Ready_to_move,Resale,Builder_Floor
+960,1500.0,3,3.0,Semi-Furnished,other,1.0,12000000,Ready_to_move,Resale,Apartment
+963,1600.0,4,3.0,Furnished,other,1.0,20000000,Ready_to_move,Resale,Apartment
+966,1000.0,3,2.0,Furnished,other,2.0,12000000,Ready_to_move,Resale,Apartment
+968,975.0,3,2.0,Semi-Furnished,other,1.0,12000000,Ready_to_move,Resale,Apartment
+978,1150.0,3,3.0,Semi-Furnished,other,1.0,12000000,Ready_to_move,Resale,Apartment
+981,1350.0,3,3.0,Semi-Furnished,other,1.0,12000000,Ready_to_move,Resale,Apartment
+982,1200.0,3,2.0,Semi-Furnished,other,1.0,12500000,Ready_to_move,Resale,Apartment
+984,1460.0,3,3.0,Unfurnished,other,1.0,12000000,Ready_to_move,Resale,Apartment
+986,1500.0,3,3.0,Furnished,other,2.0,15000000,Ready_to_move,Resale,Apartment
+1001,900.0,3,2.0,Furnished,other,1.0,5500000,Ready_to_move,Resale,Builder_Floor
+1002,1512.0,2,2.0,Unfurnished,other,1.0,30000000,Almost_ready,New_Property,Apartment
+1005,2907.0,4,4.0,Semi-Furnished,other,1.0,30000000,Ready_to_move,Resale,Apartment
+1011,1100.0,3,3.0,Semi-Furnished,other,2.0,12500000,Ready_to_move,Resale,Apartment
+1014,1260.0,3,2.0,Semi-Furnished,other,1.0,7000000,Ready_to_move,Resale,Builder_Floor
+1020,1135.0,3,3.0,Furnished,other,2.0,25000000,Almost_ready,Resale,Apartment
+1032,1280.0,3,3.0,Furnished,other,2.0,15000000,Ready_to_move,Resale,Builder_Floor
+1036,1206.0,3,3.0,Semi-Furnished,other,1.0,20000000,Ready_to_move,Resale,Builder_Floor
+1038,345.0,1,1.0,Semi-Furnished,other,1.0,5500000,Ready_to_move,Resale,Builder_Floor
+1039,720.0,2,1.0,Semi-Furnished,other,1.0,7000000,Ready_to_move,Resale,Builder_Floor
+1042,950.0,2,2.0,Furnished,other,1.0,12500000,Ready_to_move,Resale,Apartment
+1045,1501.0,3,2.0,Semi-Furnished,other,1.0,20000000,Almost_ready,Resale,Apartment
+1055,1450.0,3,3.0,Semi-Furnished,other,2.0,15500000,Ready_to_move,New_Property,Apartment
+1056,1250.0,2,2.0,Furnished,other,2.0,15000000,Ready_to_move,Resale,Apartment
+1058,1646.0,3,3.0,Unfurnished,other,1.0,20000000,Ready_to_move,Resale,Apartment
+1062,1590.0,3,2.0,Unfurnished,other,2.0,25000000,Ready_to_move,New_Property,Apartment
+1063,990.0,3,2.0,Unfurnished,other,2.0,25000000,Ready_to_move,Resale,Apartment
+1065,1260.0,3,3.0,Semi-Furnished,other,1.0,25000000,Ready_to_move,Resale,Apartment
+1069,1450.0,3,3.0,Semi-Furnished,other,2.0,15000000,Ready_to_move,New_Property,Apartment
+1071,861.112,2,2.0,Furnished,other,2.0,5000000,Ready_to_move,Resale,Builder_Floor
+1073,1753.0,3,3.0,Unfurnished,other,1.0,19000000,Ready_to_move,Resale,Apartment
+1078,1138.0,2,2.0,Semi-Furnished,other,2.0,13500000,Ready_to_move,New_Property,Apartment
+1079,1600.0,3,3.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,21000000,Ready_to_move,New_Property,Builder_Floor
+1080,1600.0,3,3.0,Semi-Furnished,Sheikh Sarai Phase 1,1.0,22500000,Ready_to_move,Resale,Builder_Floor
+1081,1250.0,2,4.0,Semi-Furnished,other,1.0,19000000,Ready_to_move,Resale,Builder_Floor
+1085,1800.0,3,4.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,19000000,Ready_to_move,Resale,Apartment
+1086,600.0,1,1.0,Unfurnished,other,2.0,7000000,Ready_to_move,New_Property,Apartment
+1090,1100.0,3,2.0,Semi-Furnished,other,1.0,6000000,Ready_to_move,New_Property,Builder_Floor
+1095,1350.0,3,3.0,Unfurnished,Sheikh Sarai Phase 1,2.0,20000000,Ready_to_move,Resale,Apartment
+1096,900.0,2,2.0,Unfurnished,Sheikh Sarai Phase 1,2.0,5500000,Ready_to_move,New_Property,Builder_Floor
+1097,850.0,2,2.0,Semi-Furnished,Sheikh Sarai Phase 1,1.0,13500000,Ready_to_move,Resale,Apartment
+1098,1650.0,3,3.0,Semi-Furnished,Sheikh Sarai Phase 1,1.0,22500000,Ready_to_move,Resale,Builder_Floor
+1102,1800.0,4,3.0,Furnished,other,2.0,5500000,Ready_to_move,New_Property,Builder_Floor
+1103,1500.0,3,3.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,22500000,Ready_to_move,Resale,Builder_Floor
+1104,1100.0,2,2.0,Semi-Furnished,Sheikh Sarai Phase 1,1.0,12500000,Ready_to_move,Resale,Apartment
+1105,1400.0,3,2.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,19000000,Ready_to_move,Resale,Apartment
+1106,1300.0,2,2.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,15500000,Ready_to_move,Resale,Apartment
+1107,1100.0,2,2.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,13500000,Ready_to_move,Resale,Apartment
+1108,1600.0,3,3.0,Semi-Furnished,Sheikh Sarai Phase 1,2.0,21000000,Ready_to_move,Resale,Apartment
+1113,1640.0,3,3.0,Unfurnished,other,1.0,12000000,Ready_to_move,Resale,Apartment
+1115,2100.0,3,3.0,Semi-Furnished,other,1.0,25000000,Ready_to_move,Resale,Builder_Floor
+1131,900.0,2,2.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,Resale,Builder_Floor
+1134,2340.0,4,4.0,Semi-Furnished,other,1.0,26000000,Ready_to_move,Resale,Builder_Floor
+1141,1350.0,3,3.0,Semi-Furnished,other,2.0,21000000,Ready_to_move,Resale,Apartment
+1142,1800.0,3,3.0,Semi-Furnished,other,2.0,22500000,Ready_to_move,Resale,Apartment
+1143,968.751,2,2.0,Semi-Furnished,other,2.0,15000000,Ready_to_move,Resale,Apartment
+1144,1250.0,3,3.0,Semi-Furnished,other,2.0,20000000,Ready_to_move,New_Property,Apartment
+1145,1800.0,3,3.0,Furnished,other,2.0,20000000,Ready_to_move,New_Property,Apartment
+1146,1400.0,3,2.0,Semi-Furnished,other,2.0,26000000,Ready_to_move,Resale,Builder_Floor
+1150,1600.0,3,3.0,Semi-Furnished,other,2.0,20000000,Ready_to_move,Resale,Apartment
+1152,1400.0,3,2.0,Unfurnished,other,1.0,19000000,Ready_to_move,Resale,Apartment
+1154,1100.0,2,2.0,Unfurnished,other,2.0,15000000,Ready_to_move,Resale,Apartment
+1157,1500.0,3,3.0,Semi-Furnished,other,2.0,21000000,Ready_to_move,Resale,Apartment
+1159,1300.0,3,3.0,Unfurnished,other,2.0,19000000,Ready_to_move,Resale,Apartment
+1161,1440.0,3,3.0,Unfurnished,other,1.0,19000000,Ready_to_move,Resale,Apartment
+1163,450.0,1,1.0,Semi-Furnished,other,1.0,3000000,Ready_to_move,Resale,Builder_Floor
+1164,1300.0,2,2.0,Semi-Furnished,other,1.0,15000000,Ready_to_move,Resale,Apartment
+1167,1400.0,3,3.0,Furnished,other,1.0,19000000,Ready_to_move,Resale,Apartment
+1168,1400.0,3,3.0,Semi-Furnished,other,1.0,19000000,Ready_to_move,Resale,Apartment
+1171,900.0,3,3.0,Semi-Furnished,other,1.0,7000000,Ready_to_move,New_Property,Builder_Floor
+1175,1800.0,2,2.0,Furnished,other,1.0,21000000,Ready_to_move,Resale,Builder_Floor
+1176,1300.0,3,3.0,Semi-Furnished,other,2.0,21000000,Ready_to_move,Resale,Builder_Floor
+1181,1485.0,3,3.0,Unfurnished,other,1.0,30000000,Ready_to_move,Resale,Apartment
+1182,1600.0,3,3.0,Semi-Furnished,other,2.0,26000000,Ready_to_move,Resale,Builder_Floor
+1184,900.0,2,2.0,Semi-Furnished,other,2.0,6500000,Ready_to_move,Resale,Apartment
+1185,900.0,2,2.0,Unfurnished,other,2.0,15000000,Ready_to_move,Resale,Apartment
+1193,1300.0,3,2.0,Unfurnished,other,1.0,13500000,Ready_to_move,Resale,Apartment
+1198,720.0,2,2.0,Unfurnished,other,1.0,5500000,Almost_ready,New_Property,Builder_Floor
+1236,1200.0,3,3.0,Semi-Furnished,other,1.0,22500000,Ready_to_move,New_Property,Builder_Floor
+1239,1450.0,3,3.0,Semi-Furnished,other,1.0,22500000,Ready_to_move,Resale,Builder_Floor
+1241,2430.0,4,4.0,Furnished,other,5.0,30000000,Ready_to_move,Resale,Builder_Floor
+1242,945.0,2,1.0,Unfurnished,other,5.0,6500000,Ready_to_move,Resale,Apartment
+1248,1440.0,3,3.0,Semi-Furnished,other,2.0,22500000,Ready_to_move,New_Property,Builder_Floor
+1251,1200.0,3,2.0,Semi-Furnished,other,1.0,15500000,Ready_to_move,Resale,Builder_Floor
+1252,1800.0,3,3.0,Semi-Furnished,other,1.0,26000000,Ready_to_move,Resale,Builder_Floor
+1255,1050.0,3,2.0,Semi-Furnished,other,3.0,12500000,Ready_to_move,Resale,Builder_Floor

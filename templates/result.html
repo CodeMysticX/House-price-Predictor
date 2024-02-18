@@ -1,0 +1,88 @@
+{% extends 'navbar.html' %}
+
+{% block content %}
+  <style>
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding-top: 80px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+    }
+    
+    .left-column {
+      width: 60%;
+      transition: transform 0.5s ease-in-out;
+    }
+
+    .right-column {
+      width: 40%;
+      transition: transform 0.5s ease-in-out;
+    }
+
+    h2 {
+      color: #333;
+      font-size: 36px;
+      margin-bottom: 20px;
+      transition: color 0.5s ease-in-out;
+    }
+
+    h3 {
+      font-size: 20px;
+      color: #666;
+      margin-bottom: 10px;
+      transition: color 0.5s ease-in-out;
+    }
+
+    a[type="a"] {
+      display: inline-block;
+      background-color: #007bff;
+      color: #fff;
+      padding: 10px 20px;
+      border-radius: 5px;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+      text-decoration: none;
+      transition: background-color 0.5s ease-out, transform 0.5s ease-in-out;
+      margin-top: 20px;
+    }
+
+    a[type="a"]:hover {
+      background-color: #0056b3;
+    }
+
+    .container:hover .left-column {
+      transform: translateX(-20px);
+    }
+
+    .container:hover .right-column {
+      transform: translateX(20px);
+    }
+
+    .container:hover h2,
+    .container:hover h3 {
+      color: #ff6600;
+    }
+  </style>
+  
+  <div class="container">
+    <div class="left-column">
+      <h2>Property Details</h2>
+      <h3>Area : {{info.area}}</h3> 
+      <h3>BHK : {{info.bhk}}</h3> 
+      <h3>Bathroom : {{info.Bathroom}}</h3> 
+      <h3>Furnishing : {{info.Furnishing}}</h3> 
+      <h3>Locality : {{info.Locality}}</h3> 
+      <h3>Parking : {{info.Parking}}</h3> 
+      <h3>Status : {{info.Status}}</h3> 
+      <h3>Transaction : {{info.Transaction}}</h3> 
+      <h3>Type : {{info.Type}}</h3> 
+      {% for price in data %}
+      <h3>Price : ₹ {{price}}</h3> 
+      {% endfor %}
+      <br>
+      <a type='a' href="/download">Download Data</a>
+
+{% endblock %}

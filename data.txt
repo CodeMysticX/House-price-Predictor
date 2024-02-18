@@ -1,0 +1,2 @@
+Area	BHK	Bathroom	Furnishing	Locality	Parking	Status	Transaction	Type	price
+1.0	2	2.0	Furnished	Lajpat Nagar 2	2.0	Ready_to_move	New_Property	Apartment	9942034.0

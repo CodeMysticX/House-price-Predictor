@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>House Price Prophet</title>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Caveat&family=Kalam&display=swap');
+      
+      * {
+        font-family: "Georgia" serif;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        color: #333; /* Dark black text color */
+      }
+      body {
+        background-image: url('https://media.istockphoto.com/id/1352702316/photo/cozy-furnished-porch-enclosure-in-autumn-season.jpg?s=612x612&w=0&k=20&c=O7lUJoXcvAd6hUhNGMUKif5A9wqnJrvSq57zhln7pBk=');
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        align-items: flex-start;
+        background-attachment: fixed;
+        min-height: 100vh;
+        align-content: space-between;
+        flex-wrap: nowrap;
+        justify-content: center;
+    }
+      
+      .container {
+        padding: 30px;
+        max-width: 600px;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        /* Glassmorphism Effect */
+        background-color: rgba(255, 255, 255, 0.7); /* Increased opacity */
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+      }
+      
+      h2 {
+        text-align: center;
+        margin-bottom: 30px;
+        width: 100%;
+      }
+      
+      .left-column,
+      .right-column {
+        flex-basis: calc(50% - 10px);
+      }
+      
+      .form-group {
+        display: flex;
+        align-items: center;
+        margin-bottom: 20px;
+      }
+      
+      label {
+        font-weight: bold;
+        margin-right: 10px;
+      }
+      
+      select {
+        padding: 10px;
+        border-radius: 5px;
+        border: none;
+        font-size: 16px;
+        flex: 1;
+      }
+      
+      input[type='submit'] {
+        background-color: #007bff;
+        color: #fff;
+        padding: 10px 20px;
+        border-radius: 5px;
+        border: none;
+        cursor: pointer;
+        font-size: 16px;
+        width: 100%;
+        margin-top: 20px;
+        transition: background-color 0.5s ease-out;
+      }
+      
+      input[type='submit']:hover {
+        background-color: orange;
+      }
+      
+      body {
+        font-family: Arial, sans-serif;
+      }
+
+      .container
+      {
+        margin-top: 100px;
+      }
+      
+      .navbar {
+        background-color: rgba(255, 255, 255, 0.5);
+        backdrop-filter: blur(10px);
+        position: fixed;
+        width: 100%;
+        z-index: 999;
+        padding: 20px 30px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between
+      }
+      .navbar.text-custom {
+         color: #FFA500; /* Orange color */
+      }
+      .navbar ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+      }
+      
+      .navbar ul li {
+        margin-right: 20px;
+      }
+      
+      .navbar ul li a {
+        color: #0f0e0e;
+        text-decoration: orange;
+        padding: 10px;
+        border-radius: 5px;
+        transition: background-color 0.3s ease;
+      }
+      
+      .navbar ul li a:hover {
+        background-color: rgba(255, 255, 255, 0.7);
+      }
+      
+      .navbar h1 {
+        color: #0f0f0f;
+        margin: 0;
+        font-size: 24px;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="navbar">
+      <h1><a href="/">HomePriceProphet</a></h1>
+      <ul>
+        <li>
+          <a href="/">Home</a>
+        </li>
+        <li>
+          <a href="/about">About</a>
+        </li>
+        <li>
+          <a href="/main">Main</a>
+        </li>
+      </ul>
+    </div>
+    <div class "container">
+    {% block content %}
+      <!-- Default header content -->
+    {% endblock %}
+    <div>
+  </body>
+</html>
